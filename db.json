@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Denise Brown",
+      "age": 30
+      "Phone": +64223022374
+      "Address": "77 Grafton Road, Grafton, Auckland, 1010"
+    },
+    {
+      "name": "Jessica Smith",
+      "id": 2,
+      "age": 40
+      "Phone": +6498868756
+      "Address": "Level 3, 107 Customhouse Quay, Wellington, 6011"
+    }
+  ]
+}
