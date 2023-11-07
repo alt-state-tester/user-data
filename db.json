@@ -5,14 +5,14 @@
       "name": "Denise Brown",
       "age": 30,
       "phone": "+642211002211",
-      "Address": "7 Grafton Road, Grafton, Auckland, 1010"
+      "address": "7 Grafton Road, Grafton, Auckland, 1010"
     },
     {
       "name": "Jessica Smith",
       "id": 2,
       "age": 40,
-      "Phone": "+64988776655",
-      "Address": "7 Customhouse Quay, Wellington, 6011"
+      "phone": "+64988776655",
+      "address": "7 Customhouse Quay, Wellington, 6011"
     }
   ]
 }
