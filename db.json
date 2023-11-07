@@ -4,14 +4,14 @@
       "id": 1,
       "name": "Denise Brown",
       "age": 30,
-      "phoneNumber": "02211002211",
+      "phoneNumber": 02211002211,
       "address": "7 Grafton Road, Grafton, Auckland, 1010"
     },
     {
       "name": "Jessica Smith",
       "id": 2,
       "age": 40,
-      "phoneNumber": "0988776655",
+      "phoneNumber": 0988776655,
       "address": "7 Customhouse Quay, Wellington, 6011"
     }
   ]
